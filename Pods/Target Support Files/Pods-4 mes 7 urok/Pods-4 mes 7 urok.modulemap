@@ -1,0 +1,6 @@
+framework module Pods_4_mes_7_urok {
+  umbrella header "Pods-4 mes 7 urok-umbrella.h"
+
+  export *
+  module * { export * }
+}
